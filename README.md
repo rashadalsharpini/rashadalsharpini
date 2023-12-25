@@ -20,7 +20,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/7d/fb/93/7dfb938ed0024eb99ef3580dbefdf957.gif"  />
 
 <h3 align="left">Find me here!!</h3>  
-<p align="left">  
+<p align="center">  
 <a href="https://medium.com/@rashadalsharpini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rashadalsharpini" height="30" width="40" /></a>  
 <a href="https://codeforces.com/profile/rashadalsharpini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rashadalsharpini" height="30" width="40" /></a>  
 </p>
