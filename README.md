@@ -61,7 +61,7 @@
 
 ---
 
-[//]: # (<img src="https://raw.githubusercontent.com/rashadalsharpini/rashadalsharpini/output/snake.svg" alt="Snake animation" />)
+<img src="https://raw.githubusercontent.com/rashadalsharpini/rashadalsharpini/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rashadalsharpini.rashadalsharpini&left_color=midnightblue&right_color=azure&left_text=Views"  />
