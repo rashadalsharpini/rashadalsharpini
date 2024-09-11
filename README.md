@@ -55,7 +55,7 @@
 
 ---
 
-![snake gif](https://github.com/rashadalsharpini/rashadalsharpini/blob/output/github-contribution-grid-snake-dark.svg)
+<!--![snake gif](https://github.com/rashadalsharpini/rashadalsharpini/blob/output/github-contribution-grid-snake-dark.svg)-->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rashadalsharpini.rashadalsharpini&left_color=midnightblue&right_color=azure&left_text=Views"  />
