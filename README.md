@@ -55,7 +55,7 @@
 
 ---
 
-[//]: # (<!--![snake gif]&#40;https://github.com/rashadalsharpini/rashadalsharpini/blob/output/github-contribution-grid-snake-dark.svg&#41;-->)
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rashadalsharpini.rashadalsharpini&left_color=midnightblue&right_color=azure&left_text=Views"  />
